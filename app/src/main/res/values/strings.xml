@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercise Week 4</string>
+
+    <string name="test">nội dung phim </string>
+    <string name="detail_release_date">Release Date: </string>
+</resources>
